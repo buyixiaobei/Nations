@@ -1,0 +1,39 @@
+//
+//  NationHeader.pch
+//  Nations
+//
+//  Created by LB on 16/7/11.
+//  Copyright © 2016年 LB. All rights reserved.
+//
+
+#ifndef NationHeader_pch
+#define NationHeader_pch
+
+/** 项目公共头文件 */
+#import "Define.h"
+#import "MainTabBarController.h"
+#import "BaseTableViewController.h"
+
+/** 云信头文件 */
+//#import "NIMSDK.h"
+//#import "NIMKit.h"
+//#import "NTESService.h"
+//#import "UIView+Toast.h"
+//#import "NTESLogManager.h"
+//#import "NTESDemoConfig.h"
+//#import "NTESSessionUtil.h"
+//#import "NTESMainTabController.h"
+//#import "NTESNotificationCenter.h"
+//#import "NTESCustomAttachmentDecoder.h"
+//#import "NTESNotificationCenter.h"
+//#import "NTESLoginManager.h"
+//#import "NTESDataManager.h"
+//#import "NTESClientUtil.h"
+//#import "NTESSDKConfig.h"
+
+/** 三方库头文件 */
+#import "DDLog.h"
+
+
+
+#endif /* NationHeader_pch */

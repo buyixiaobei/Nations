@@ -1,0 +1,18 @@
+platform :ios, '8.0'
+use_frameworks!
+
+target 'Nations' do
+pod 'AFNetworking', '~> 3.1.0'
+pod 'Toast'
+pod 'M80AttributedLabel'
+pod 'Masonry'
+pod 'MJExtension'
+pod 'Reachability'
+pod 'CocoaLumberjack'
+pod 'SSZipArchive'
+pod 'FMDB'
+pod 'SDWebImage'
+pod 'SVProgressHUD'
+pod 'MJRefresh'
+pod 'UMengAnalytics-NO-IDFA'
+end
